@@ -27,11 +27,11 @@ This will outline the post-installation configuration of osTicket.<br/>
 
   <h2>Steps</h2>
 <p>
-<h3 align="center">Note: Before you continue, ensure XAMPP Apache and MySQL are still running, and you have logged into your osTicket admin account, which you made in the previous steps. Here is the link to the login page: http://localhost/osticket/upload/scp/login.php. After logging in, ensure you are in the Admin Panel, not the Agent Panel. Look at the top right where it says Welcome; if it says Agent Panel, you are in the Admin Panel. If it says Admin Panel, you are in the Agent Panel. Reference the picture below. I will leave links to the osTicket documentation with each step.</h3>
+<h3 align="center"></h3>
 <br />
 </p>
 <p>
-	<img src="https://i.postimg.cc/PrS169Qt/Add-New-Role.png" height="75%" width="100%">
+	<img src="" height="75%" width="100%">
 </p>
 <p>
 <h3 align="center">From the Admin Panel, you should be at the settings tab by default. Click on Agents to the far right and then click on Roles. Then click on Add New Role. Create the name of the role, then click on the permissions tab. I created the Supreme Admin role for demonstration, so all permissions are checked. The permission given will depend on the role you are creating. <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html" target="_blank"> Documentation</a></h3>
