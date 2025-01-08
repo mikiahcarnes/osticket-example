@@ -38,52 +38,11 @@ This tutorial outlines the lifecycle of a ticket from intake within the open-sou
 </p>
 <br />
 <br />
-<h3 align="center">Now, go to this page http://localhost/osticket/upload/login.php and click on sign in here next to I'm an agent. Sign in as one of the agents you created earlier and click on the Tickets tab, where you'll see the ticket you created earlier. Click on the ticket, and you will see the ticket dashboard. You can change the Priority and SLA Plan of the ticket. You should also assign it to yourself. You can go through and play around with the whole interaction as I did in the picture above, and when you are done, click on the Ticket Status dropdown at the bottom of the ticket and click closed.</h3>
+<h3 align="center">Now, go to this page http://localhost/osticket/upload/login.php and click on sign in here next to I'm an agent. Sign in as one of the agents you created earlier and click on the Tickets tab, where you'll see the ticket you created earlier. Click on the ticket, and you will see the ticket dashboard. You can change the Priority and SLA Plan of the ticket. You should also assign it to yourself. You can go through and play around with the whole interaction as I did in the picture above, and when you are done, click on the Ticket Status dropdown at the bottom of the ticket and click Resolved.</h3>
 <br />
 <p>
-	<img src="" height="75%" width="100%" />
+	<img src="https://i.postimg.cc/g2Fj0zxD/Closed-Tickets.png" height="75%" width="100%" />
 </p>
 <br />
-<h3 align="center"></h3>
+<h3 align="center">After you resolve the ticket and return to the Ticket tab, you will see that it is now in the closed tab. Congratulations! You have now installed, configured, and used osTicket.</h3>
 <br />
-<p>
-	<img src="" height="75%" width="100%" />
-</p>
-<br />
-<br />
-<h3 align="center"></h3>
-<br />
-<p>
-  <img src="" height="75%" width="100%"/>
-</p>
-<br />
-<h3 align="center"></h3>
-<br />
-<p>
-  <img src="" height="75%" width="100%"/>
-</p>
-<br/>
-<h3 align="center"></h3>
-<br />
-<p>
-  <img src="" height="75%" width="100%"/>
-</p>
-<br/>
-<h3 align="center"></h3>
-<br />
-<p>
-	<div align="center">
-  		<img src="https://i.postimg.cc/Hx4ZwHW7/Sev-A.png" alt="Image 1" height="75%" width="33%">
-  		<img src="https://i.postimg.cc/0rgz9gmc/Sev-B.png" alt="Image 2" height="75%" width="33%">
-  		<img src="https://i.postimg.cc/HxqMk71w/Sev-C.png" alt="Image 3" height="75%" width="33%">
-	</div>
- 
-</p>
-<br/>
-<h3 align="center"></h3>
-<br/>
-<p>
-  <img src="" height="75%" width="100%"/>
-</p>
-<br/>
-<h3 align="center"></h3>
