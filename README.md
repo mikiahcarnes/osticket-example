@@ -34,11 +34,11 @@ This tutorial outlines the lifecycle of a ticket from intake within the open-sou
 <br />
 </p>
 <p>
-	<img src="" height="75%" width="100%" />
+	<img src="https://i.postimg.cc/8kRkk4P9/Viewing-Ticket-As-Agent.png" height="75%" width="100%" />
 </p>
 <br />
 <br />
-<h3 align="center"></h3>
+<h3 align="center">Now, go to this page http://localhost/osticket/upload/login.php and click on sign in here next to I'm an agent. Sign in as one of the agents you created earlier and click on the Tickets tab, where you'll see the ticket you created earlier. Click on the ticket, and you will see the ticket dashboard. You can change the Priority and SLA Plan of the ticket. You should also assign it to yourself. You can go through and play around with the whole interaction as I did in the picture above, and when you are done, click on the Ticket Status dropdown at the bottom of the ticket and click closed.</h3>
 <br />
 <p>
 	<img src="" height="75%" width="100%" />
